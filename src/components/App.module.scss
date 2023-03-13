@@ -1,6 +1,19 @@
 @import "./../styles/variables";
 
 .wrap {
-  background-color: $color-main;
+  font-family: "Ubuntu Regular";
+  height: 100vh;
+  background-color: $color-bg;
   height: 50px;
+  color: $color-text;
 }
+
+// @font-face {
+//   font-family: "Ubuntu Regular";
+//   src: url("../styles/fonts/ubuntu/Ubuntu-Regular.ttf");
+// }
+
+// @font-face {
+//   font-family: "Rokkit Regular";
+//   src: url("../styles/fonts/rokkit/Rokkitt-Regular.ttf");
+// }

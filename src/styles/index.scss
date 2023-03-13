@@ -1,1 +1,11 @@
 @use "variables.scss";
+
+@font-face {
+  font-family: "Ubuntu Regular";
+  src: url("../styles/fonts/ubuntu/Ubuntu-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Rokkit Regular";
+  src: url("../styles/fonts/rokkit/Rokkitt-Regular.ttf");
+}
